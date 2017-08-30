@@ -1,6 +1,6 @@
-logrotate container configuration
+# Containerized logrotate
 
-logrotat currently does not run on an atomic host.  This repository can be used
+logrotate currently does not run on an atomic host.  This repository can be used
 to create a container which could be installed with atomic install
 to run logrotate inside of a container.
 
